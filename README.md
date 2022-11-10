@@ -5,6 +5,7 @@ My name is Jozef and I like React.js.
 
 </div>
 
+  <a href="https://itsjozef.netlify.app/">Get to know more about me here!</a>
 
 
 
