@@ -1,7 +1,7 @@
 <div align="center">
-Hey There!
+<h2>Hey There!<h2>
 
-My name is Jozef and I'm a Reactjs Developer.
+My name is Jozef and <br> I'm a Reactjs Developer.
 
 </div>
 
