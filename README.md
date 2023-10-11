@@ -1,6 +1,6 @@
 
 
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm Jozef Antony Neelamkavil! 👋
 
 I am a passionate Computer Science Engineering student with a keen interest in exploring new technologies. I thrive on challenges and enjoy working on full-stack development projects. My goal is to leverage my skills to create innovative and impactful solutions.
 
