@@ -16,12 +16,7 @@ I am a passionate Computer Science Engineering student with a keen interest in e
 I am currently exploring cloud technologies and cybersecurity. I love to keep myself updated with the latest trends and advancements in the tech world.
 
 
-## 🌟 Projects
-- **[Expense](Link to project repository)**  
-  Description: Expense Tracker using nextjs and crud applications
 
-- **[Collaber](Link to project repository)**  
-  Description: Brief description of the project. Mention your role and the technologies used.
 
 ## 🤝 Let's Connect!
 - LinkedIn: [jzf21](https://www.linkedin.com/in/jzf21)
