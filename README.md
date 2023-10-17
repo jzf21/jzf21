@@ -35,3 +35,5 @@ Feel free to reach out if you want to collaborate on a project, discuss the late
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jzf21&" alt="jzf21" /></p>
 
+[![](https://visitcount.itsvg.in/api?id=jzf21&label=stalkers&color=9&icon=2&pretty=true)](https://visitcount.itsvg.in)
+
