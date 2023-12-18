@@ -3,6 +3,7 @@
 # Hello, I'm Jozef Antony Neelamkavil! 👋
 
 I am a passionate Computer Science Engineering student with a keen interest in exploring new technologies. I thrive on challenges and enjoy working on full-stack development projects. My goal is to leverage my skills to create innovative and impactful solutions.
+[To know more about me click here](jzf21.vercel.app)
 
 ## 🔧 Technologies & Tools
 - **Languages:** JavaScript, Python, Java , C , C#
@@ -20,7 +21,7 @@ I am currently exploring cloud technologies and cybersecurity. I love to keep my
 
 ## 🤝 Let's Connect!
 - LinkedIn: [jzf21](https://www.linkedin.com/in/jzf21)
-- Portfolio: [Portfolio](jozefs.netlify.app)
+- Portfolio: [Portfolio](jzf21.vercel.app)
 - Email: jozefneelamkavil2003@gmail.com
 
 Feel free to reach out if you want to collaborate on a project, discuss the latest tech trends, or simply have a chat! 😊
