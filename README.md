@@ -21,7 +21,7 @@ I am currently exploring cloud technologies and cybersecurity. I love to keep my
 
 ## 🤝 Let's Connect!
 - LinkedIn: [jzf21](https://www.linkedin.com/in/jzf21)
-- Portfolio: [Portfolio](jzf21.vercel.app)
+- Portfolio: [Portfolio](https://jzf21.vercel.app)
 - Email: jozefneelamkavil2003@gmail.com
 
 Feel free to reach out if you want to collaborate on a project, discuss the latest tech trends, or simply have a chat! 😊
