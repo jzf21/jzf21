@@ -2,7 +2,7 @@
 
 # Hello, I'm Jozef Antony Neelamkavil! 👋
 
-I am a passionate Computer Science Engineering student with a keen interest in exploring new technologies. I thrive on challenges and enjoy working on full-stack development projects. My goal is to leverage my skills to create innovative and impactful solutions.
+I am a passionate Computer Science Engineer with a keen interest in exploring new technologies. I thrive on challenges and enjoy working on full-stack development projects. My goal is to leverage my skills to create innovative and impactful solutions.
 [To know more about me click here](https://jzf21.vercel.app)
 
 ## 🔧 Technologies & Tools
@@ -12,9 +12,6 @@ I am a passionate Computer Science Engineering student with a keen interest in e
 - **Databases:** MongoDB, MySQL, PostgreSQL
 - **Tools:** Git, Docker
 - **Others:** RESTful APIs, prisma
-
-## 🌱 I’m currently learning
-I am currently exploring cloud technologies and cybersecurity. I love to keep myself updated with the latest trends and advancements in the tech world.
 
 
 
